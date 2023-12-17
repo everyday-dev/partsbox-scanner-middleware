@@ -13,7 +13,7 @@ apt install python3-tk
 ```
 
 ## Usage
-To connec to the scanner connected to `/dev/ttyACM0` at 115200 baud:
+To connect a scanner connected to `/dev/ttyACM0` at 115200 baud:
 ```bash
 python partsbox_barcode.py /dev/ttyACM0 115200
 ```
